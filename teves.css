@@ -1,0 +1,46 @@
+
+div {
+    font-family: Arial, sans-serif;
+    background-color: lightyellow;
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.word {
+    color: blue;
+}
+
+.excel {
+    color: green;
+}
+
+.powerpoint {
+    color: orange;
+}
+
+.outlook {
+    color: purple;
+}
+
+.pc {
+    color: red;
+}
+
+.processing {
+    color: brown;
+}
+
+.spreadsheets {
+    color: teal;
+}
+
+.presentations {
+    color: pink;
+}
+
+.organization {
+    color: gray;
+}
+
+
